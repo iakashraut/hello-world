@@ -2,5 +2,6 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "iakashraut@gmail.com" 
+MAINTAINER "iakashraut@gmail.com." 
+
 
